@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Deparments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BA236C-6B92-4198-993B-E414AD18E7CE}|Deparments\\Deparments.csproj|c:\\users\\user\\source\\repos\\deparments\\deparments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BA236C-6B92-4198-993B-E414AD18E7CE}|Deparments\\Deparments.csproj|solutionrelative:deparments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BA236C-6B92-4198-993B-E414AD18E7CE}|Deparments\\Deparments.csproj|c:\\users\\user\\source\\repos\\deparments\\deparments\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BA236C-6B92-4198-993B-E414AD18E7CE}|Deparments\\Deparments.csproj|solutionrelative:deparments\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BA236C-6B92-4198-993B-E414AD18E7CE}|Deparments\\Deparments.csproj|c:\\users\\user\\source\\repos\\deparments\\deparments\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BA236C-6B92-4198-993B-E414AD18E7CE}|Deparments\\Deparments.csproj|solutionrelative:deparments\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BA236C-6B92-4198-993B-E414AD18E7CE}|Deparments\\Deparments.csproj|c:\\users\\user\\source\\repos\\deparments\\deparments\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BA236C-6B92-4198-993B-E414AD18E7CE}|Deparments\\Deparments.csproj|solutionrelative:deparments\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BA236C-6B92-4198-993B-E414AD18E7CE}|Deparments\\Deparments.csproj|c:\\users\\user\\source\\repos\\deparments\\deparments\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BA236C-6B92-4198-993B-E414AD18E7CE}|Deparments\\Deparments.csproj|solutionrelative:deparments\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Deparments\\Deparments\\Department.cs",
+              "RelativeDocumentMoniker": "Deparments\\Department.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Deparments\\Deparments\\Department.cs",
+              "RelativeToolTip": "Deparments\\Department.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:53:20.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Deparments\\Deparments\\Employee.cs",
+              "RelativeDocumentMoniker": "Deparments\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Deparments\\Deparments\\Employee.cs",
+              "RelativeToolTip": "Deparments\\Employee.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:52:41.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Deparments\\Deparments\\IPerson.cs",
+              "RelativeDocumentMoniker": "Deparments\\IPerson.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Deparments\\Deparments\\IPerson.cs",
+              "RelativeToolTip": "Deparments\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:52:12.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CapacityLimitException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Deparments\\Deparments\\Exceptions\\CapacityLimitException.cs",
+              "RelativeDocumentMoniker": "Deparments\\Exceptions\\CapacityLimitException.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Deparments\\Deparments\\Exceptions\\CapacityLimitException.cs",
+              "RelativeToolTip": "Deparments\\Exceptions\\CapacityLimitException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:51:27.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Deparments\\Deparments\\Program.cs",
+              "RelativeDocumentMoniker": "Deparments\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Deparments\\Deparments\\Program.cs",
+              "RelativeToolTip": "Deparments\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:50:45.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
